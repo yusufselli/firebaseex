@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+    <string name="name">Name</string>
+    <string name="title">Title</string>
+    <string name="aa">Aa...</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec gravida libero. Fusce ornare laoreet diam sit amet vehicula. Phasellus nec semper urna. Aenean congue porttitor sem non dignissim. Maecenas cursus, elit nec suscipit maximus, nunc ante viverra eros, eu iaculis dolor odio in arcu. Integer a velit ac enim auctor convallis molestie eu orci. Phasellus egestas egestas ligula, ac euismod eros. Morbi fringilla facilisis risus. Aliquam sodales enim ut sapien gravida auctor. In efficitur turpis at tellus luctus, non ultrices libero pretium. Etiam at orci sodales, rutrum metus ac, aliquam enim. Curabitur tempus elementum elementum. Integer sed suscipit dolor. Curabitur enim nibh, sodales at mi laoreet, ornare luctus purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+
+Donec nec consectetur orci. Quisque pharetra a velit nec bibendum. Sed semper purus ac dolor dapibus, ut semper justo laoreet. Vivamus faucibus tristique mauris, sodales iaculis odio elementum id. Vestibulum accumsan quis leo at consequat. Aliquam vel semper nisi. Aliquam et nisi ut sem fringilla viverra. Aliquam non eleifend ipsum. Duis elementum quam ut purus tempus, vel porttitor tellus dictum. Nunc cursus nunc sed nunc mattis, et varius nibh imperdiet.</string>
+</resources>

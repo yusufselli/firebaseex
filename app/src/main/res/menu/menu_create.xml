@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuCreate"
+        android:title="Create"
+        app:showAsAction="always"
+        android:tooltipText="Create Tooltip"
+        android:icon="@drawable/ic_check"
+        />
+
+    <item
+        android:id="@+id/menuSave"
+        android:title="Update"
+        app:showAsAction="always"
+        android:tooltipText="Update Tooltip"
+        android:icon="@drawable/ic_update"
+        />
+
+
+    <item
+        android:id="@+id/menuEdit"
+        android:title="Edit"
+        app:showAsAction="always"
+        android:tooltipText="Edit Tooltip"
+        android:icon="@drawable/ic_edit"
+        />
+
+    <item
+        android:id="@+id/menuCancel"
+        android:title="Cancel"
+        app:showAsAction="always"
+        android:tooltipText="Cancel Tooltip"
+        android:icon="@drawable/ic_cancel"
+        />
+</menu>

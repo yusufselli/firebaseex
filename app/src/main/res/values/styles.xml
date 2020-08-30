@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:overScrollMode">never</item>
+        <item name="android:editTextStyle">@style/YSFEditText</item>
+        <item name="editTextStyle">@style/YSFEditText</item>
+    </style>
+
+
+
+    <style name="YSFEditText" parent="android:Widget.EditText">
+        <item name="android:background">#FAFAFA</item>
+        <item name="android:minHeight">?android:actionBarSize</item>
+    </style>
+
+</resources>

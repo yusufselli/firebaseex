@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600032613125",
+    "firebase_url": "https://fir-ex-71a2a.firebaseio.com",
+    "project_id": "fir-ex-71a2a",
+    "storage_bucket": "fir-ex-71a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600032613125:android:98fd7159ebdd764e129d6c",
+        "android_client_info": {
+          "package_name": "com.yusuf.firebaseex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600032613125-ulbc7vq0e72mibe628h64ointoahpqs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZyiMp9xxvBpDChpn3BXWWn0E0qvlEq7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600032613125-ulbc7vq0e72mibe628h64ointoahpqs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
